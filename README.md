@@ -2,9 +2,7 @@
 
 Conditional diffusion-style denoising prototype for grayscale-to-color image reconstruction on CIFAR-10 horse images.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YWRGSb55fxymbpC50D5WSulc4_xWoU-r?usp=sharing) [GitHub Repo](https://github.com/DDaswE/diffusion-denoising-for-image-colorization)
-
-> Opening this notebook in Colab creates a working copy. The source notebook in GitHub remains unchanged unless a user already has write access to this repository.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YWRGSb55fxymbpC50D5WSulc4_xWoU-r?usp=sharing)
 
 ## Preview
 
